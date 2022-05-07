@@ -1,0 +1,16 @@
+﻿  CnvHankakuZenakaku.cpp
+  DotNetStringToMultiByte.cpp
+  LS11DotNet.cpp
+  main.cpp
+  ls11_decode.cpp
+  ls11_decodePack.cpp
+  ls11_encode.cpp
+  ls11_encodePack.cpp
+  ls11_getFileData.cpp
+  ls11_joinData.cpp
+  ls11_outFileData.cpp
+  ls11_splitData.cpp
+  OnigRegex.cpp
+  OutputDebugStream.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  RetsudenEditor.vcxproj -> C:\usr\koei\tenshouki95\dllwrap\RetsudenEditor\Release\RetsudenEditor.exe
