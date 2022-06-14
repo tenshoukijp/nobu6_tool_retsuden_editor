@@ -13,4 +13,4 @@
   OnigRegex.cpp
   OutputDebugStream.cpp
   .NETFramework,Version=v4.0.AssemblyAttributes.cpp
-  RetsudenEditor.vcxproj -> C:\usr\koei\tenshouki95\dllwrap\RetsudenEditor\Release\RetsudenEditor.exe
+  RetsudenEditor.vcxproj -> G:\repogitory_jp\nobu6_tool_retsuden_editor\RetsudenEditor\Release\RetsudenEditor.exe
